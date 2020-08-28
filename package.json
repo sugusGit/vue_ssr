@@ -1,0 +1,27 @@
+{
+  "name": "vue_ssr",
+  "version": "1.0.0",
+  "description": "a test vue ssr project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugusGit/vue_ssr.git"
+  },
+  "author": "sugus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugusGit/vue_ssr/issues"
+  },
+  "homepage": "https://github.com/sugusGit/vue_ssr#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.3",
+    "vue-server-renderer": "^2.6.12"
+  }
+}
